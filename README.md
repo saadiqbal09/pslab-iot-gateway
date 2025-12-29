@@ -9,3 +9,8 @@ and local dashboards. This project is being developed for GSoC 2026 (FOSSASIA).
 - REST API gateway
 - Local dashboard
 - Serial (Arduino/ESP32) integration
+
+## Development Status
+
+This project is under active development as part of Google Summer of Code 2026
+preparation under the Python Software Foundation.
